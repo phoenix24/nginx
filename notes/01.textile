@@ -1,0 +1,1 @@
+nginx uses goto, and i always thought goto's a bad thing
